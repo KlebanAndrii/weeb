@@ -1,5 +1,5 @@
 👉 Open "weeb" - [weeb-freelancer](https://weeb-freelancer.netlify.app/)
-! Landing page mockup using React, Vite, and Tailwind styles. Component-based approach to mockup creation, responsive design.
+@@ Landing page mockup using React, Vite, and Tailwind styles. Component-based approach to mockup creation, responsive design. @@
 
 # React + Vite
 
